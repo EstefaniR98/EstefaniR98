@@ -6,21 +6,10 @@
 <h1 align="center">Ola, sou Estefani Rodriguez</h1>
 <h3 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriqueb93&label=Profile%20views&color=0e75b6&style=flat" alt="enriqueb93" /> </p>
-<img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-
-🎯 Skills:
-<br>
--Building professional websites. <br>
--Responsive design and mobile optimization.<br>
--Project management using Git and GitHub (branch, merge, pull requests).<br>
--Experience with tools like Biome and ESLint.<br> 
-<br>
+Sou uma programadora front-end em formação com conhecimentos sólidos em **HTML**, **CSS** e estou atualmente aprendendo **JavaScript** e **Bootstrap**. Meu objetivo é criar sites dinâmicos, responsivos e de alta qualidade.
 📚 Currently Learning:
 
--Node.js and backend development.<br>
--React.js for dynamic web applications.<br>
--Scrum and agile methodologies.
+
 
 <h3 align="left"> Get in Touch:</h3>
 <p align="left">
@@ -41,24 +30,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     </a>
-   
     <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </a>
-   
-   <h3>🔧 Backend Development:</h3>
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-    </a>
-    <a href="https://www.prisma.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-    </a>
-    <a href="https://sequelize.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize">
-    </a><br>
        <h3>🛠️ Tools & Platforms:</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
