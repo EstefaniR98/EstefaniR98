@@ -13,7 +13,7 @@ Sou uma programadora front-end em formação com conhecimentos sólidos em **HTM
 
 <h3 align="left"> Get in Touch:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/enrique-jose-blanco/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/estefani-rodr%C3%ADguez-mahadeo/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br>
 <section id="tech-stack">
